@@ -6,6 +6,7 @@ bottom of border pane in second frame and it is control bar that give us the fuc
 changing the current time and current volume of the video that is being played and play and pause button.
 (FYI I've tested the app just with .mp4 format for now and it worked!)
 
+((((you just need to drag a video on first stage.))))
 
 samanSadeghyan
 samronsadeghyan@gmail.com
