@@ -1,4 +1,4 @@
-# ss_media_player
+# ss-media-player
 
 is written by javaFX. it has one Main class that runs the program and two controller classes
 that control two FXMLs (layouts). there is another class is named as Bar is a javaFX class that has been put at the
