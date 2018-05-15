@@ -8,5 +8,4 @@ changing the current time and current volume of the video that is being played a
 
 ((((you just need to drag a video on first stage.))))
 
-samanSadeghyan
-s.sadeghy325@gmail.com
+
